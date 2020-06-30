@@ -40,5 +40,6 @@ function draw(){
   }
   if(gameState === 2){
     game.end();
+    //game.update(2);
   }
 }
